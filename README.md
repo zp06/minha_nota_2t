@@ -1,2 +1,4 @@
-# minha_nota_2t
-Aluno: arthur menotti nmr 2 Turma 1G
+# primeirog_2t
+
+
+Ver a página - <a href="https://jesusmaringa.github.io/primeirog_2t/">Clique aqui</a>
